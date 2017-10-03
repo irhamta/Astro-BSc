@@ -1,2 +1,2 @@
-# bachelor_thesis_codes
+# Bachelor Thesis Codes
 Compilation of codes during my work on bachelor thesis
